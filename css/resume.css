@@ -1,0 +1,51 @@
+.pInfo {
+    font-weight: 450;
+    display: inline;
+}
+p{
+    line-height: 1.1em
+}
+
+#name{
+    text-shadow: 1px 1px 3px grey;
+}
+
+#img{
+    width: 150px;
+    min-width: 50px;
+    height: 150px;
+    border-radius: 130px;
+    box-shadow: 5px 5px 50px 5px gray;
+}
+
+#info{
+    margin-top: 20px;
+    padding: 50px;
+    border-radius:20px 20px 5px 5px;
+    box-shadow: 1px 1px 10px 1px grey;
+}
+
+#resume{ 
+    padding: 10px;
+}
+
+#resumeBody{
+    padding: 20px;
+    border-radius:5px 5px 20px 20px;
+    box-shadow: 1px 1px 10px 1px grey;
+}
+
+#me{
+    margin-bottom:80px;
+}
+
+h2{
+    text-transform: uppercase
+}
+span{
+    font-weight: 500;
+}
+
+.smhd{
+    text-shadow: 1px 1px 1px grey;
+}
